@@ -5,3 +5,5 @@ simplejson
 urllib3 <1.25
 simpleNDB >=1.0.6
 google-python-cloud-debugger
+
+pillow>=6.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
