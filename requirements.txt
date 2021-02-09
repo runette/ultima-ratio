@@ -5,3 +5,4 @@ simplejson
 urllib3 <1.25
 simpleNDB >=1.0.6
 google-python-cloud-debugger
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
